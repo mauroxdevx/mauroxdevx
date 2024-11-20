@@ -14,9 +14,7 @@
   💼 Herramientas :Visual Studio Code, Git, GitHub, Docker, Docker Compose, PostgreSQL, MySQL, MongoDB, Node.js, npm, Webpack, Jenkins, JIRA, Kubernetes, Terraform, VSCode, PyCharm, IntelliJ IDEA, Slack, Trello, Postman
 </p>
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
+
 
 <p align="left">
   <a href="#" title="Vs Code">
